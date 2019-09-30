@@ -1,1 +1,33 @@
 <?php header( 'Location: /index.html' ) ;  ?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CS-150 Human-Computer Interaction Technology</title>
+  </head>
+  <body>
+
+    <h1>Week 5: Part 3.2</h1>
+    <h2>Assignment: Bootstrap</h3>
+    <p><a href="bootstrap-sample.html">This is a link</a> to the bootstrap sample file.</p>
+    <h4> -joyygao</h4>
+
+    <h1>Week 5: Part 3.1</h1>
+    <h2>Assignment: Web Font</h3>
+    <p><a href="font-sample.html">This is a link</a> to the font sample file. Life is always a little better with good food.</p>
+    <h4> -joyygao</h4>
+
+    <h1>Week 4: Part 2</h1>
+    <h2>Assignment: Demo CSS in Your Web Application</h2>
+    <p><a href="css_demo.html">This is a link</a> to the demo file for the second part of the assignment.</p>
+    <p>Click on it and take a look at the different style sheets. Pretty cool right?</p>
+    <h4>-joyygao</h4>
+
+    <h1>Week 3: Part 1</h1>
+    <h2>Assignment: Create a Web Application</h2>
+    <p>This assignment is to create a web page that links github and heroku</p>
+    <p>I hope this works. I really do.</p>
+    <p>If it doesn't I guess I'll just die. Shrug.</p>
+    <h4>-joyygao</h4>
+
+  </body>
+<html>
